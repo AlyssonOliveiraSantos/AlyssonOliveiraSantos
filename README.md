@@ -1,15 +1,34 @@
-👋 Olá! Sou Alysson Oliveira, um entusiasta de tecnologia baseado em Blumenau, SC. Tenho 22 anos de idade e sou apaixonado por desenvolvimento de software e infraestrutura.
+## Olá sou Alysson
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyssonOliveiraSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonOliveiraSantos&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<br>
 
-💻 Tenho conhecimento sólido em Java, Spring e Design Patterns, o que me permite criar aplicativos robustos e escaláveis. Além disso, sou proficiente no uso de Git e GitHub para controle de versão e colaboração em projetos.
-
-📚 Atualmente, estou ampliando meu conhecimento em tecnologias JavaScript, como React, Node.js e Express, seguindo o padrão MVC. Estou empolgado em explorar o mundo do desenvolvimento web moderno e criar experiências interativas e dinâmicas para os usuários.
-
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas na UNISOCIESC, o que me proporciona uma base sólida em conceitos de programação, algoritmos e desenvolvimento de software.
-
-💾 Além disso, possuo experiência em bancos de dados relacionais, como SQL Server, MySQL e MariaDB, bem como em bancos de dados não relacionais, como MongoDB. Isso me permite trabalhar com eficiência na manipulação e organização dos dados em diferentes tipos de projetos.
-
-🌍 Estou sempre em busca de aprendizado e crescimento, acompanhando as últimas tendências tecnológicas e me envolvendo em projetos desafiadores. Meu objetivo é aplicar meu conhecimento e habilidades para desenvolver soluções inovadoras e impactantes.
-
-📫 Você pode me encontrar em Blumenau, SC, e ficarei feliz em me conectar com outros profissionais e entusiastas de tecnologia. Se você quiser saber mais sobre meu trabalho ou discutir colaborações, não hesite em entrar em contato!
-
-Vamos construir o futuro juntos através da tecnologia! ✨
+<div  align="center"> 
+<img align="center" height="30" width="40" alt="java-icon"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+            <img align="center" height="30" width="40" alt="git-icon"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+      <img align="center" height="30" width="40" alt="github-icon"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+   </div>
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: work.alyssonn.bra@live.com">
+      <img width="30" src="outlook.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/alysson-oliveira-santos-9aaa42155/">
+      <img width="25" src="linkedin.svg">
+    <a href = "https://www.instagram.com/__max__aly">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
+ 
