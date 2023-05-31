@@ -23,7 +23,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.alyssonn.bra@live.com">
+    <a href = "mailto: alyssonn.bra@live.com">
       <img width="30" src="outlook.png">
     </a>
     <a href = "https://www.linkedin.com/in/alysson-oliveira-santos-9aaa42155/">
