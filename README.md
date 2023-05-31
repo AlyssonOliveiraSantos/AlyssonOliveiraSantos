@@ -7,23 +7,24 @@
 <br>
 
 <div  align="center"> 
-<img align="center" height="30" width="40" alt="java-icon"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-            <img align="center" height="30" width="40" alt="git-icon"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-      <img align="center" height="30" width="40" alt="github-icon"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" alt="java-icon"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+      <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+              <img align="center" height="30" width="40" alt="git-icon"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+        <img align="center" height="30" width="40" alt="github-icon"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: work.alyssonn.bra@live.com">
-      <img width="30" src="outlook.svg">
+      <img width="30" src="outlook.png">
     </a>
     <a href = "https://www.linkedin.com/in/alysson-oliveira-santos-9aaa42155/">
       <img width="25" src="linkedin.svg">
@@ -32,3 +33,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
     </a>
 </div>
  
+![Snake animation](https://github.com/AlyssonOliveiraSantos/AlyssonOliveiraSantos/blob/output/github-contribution-grid-snake.svg)
